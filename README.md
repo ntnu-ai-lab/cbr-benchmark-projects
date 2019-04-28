@@ -1,2 +1,3 @@
 # cbr-benchmark-projects
-Benchmark myCBR systems
+
+In this repository we share benchmark myCBR projects that have been used in papers.
